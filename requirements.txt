@@ -26,7 +26,7 @@ langchain
 pgvector
 
 # Libraries for web scraping and making HTTP requests
-beautifulsoup4 requests
+beautifulsoup4
 
 # Progress bar library for Python
 tqdm
