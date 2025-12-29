@@ -1,0 +1,33 @@
+# Web framework to build backend APIs and web apps
+django 
+
+# Toolkit for building Web APIs
+djangorestframework
+
+# PostgreSQL database adapter for Python
+psycopg2-binary
+
+# Vector database for storing and querying embeddings
+chromadb 
+
+# Libraries for working with embeddings and language models
+sentence-transformers
+
+# Deep learning engine used by AI models
+torch 
+
+# Libraries for working with large language models and vector databases
+transformers 
+
+# Langchain for building applications with LLMs
+langchain 
+
+# PostgreSQL extension for vector similarity search
+pgvector
+
+# Libraries for web scraping and making HTTP requests
+beautifulsoup4 requests
+
+# Progress bar library for Python
+tqdm
+
